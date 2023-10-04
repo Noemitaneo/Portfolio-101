@@ -28,7 +28,7 @@
 	++++Responsive ++++
 */
 /*-------------Import fonts ---------------------------------------*/
-@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,200,100,400italic,700,900|Muli&subset=latin,vietnamese,latin-ext,cyrillic,cyrillic-ext,greek-ext,greek);
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;1,700;1,900&display=swap");
 /*-------------General Style---------------------------------------*/
 html {
   height: 100%;
@@ -674,7 +674,7 @@ nav li a {
   text-transform: uppercase;
   letter-spacing: 1px;
   color: #fff;
-  font-family: "Muli", sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 600;
   position: relative;
   z-index: 2;
@@ -739,7 +739,7 @@ nav li a:hover {
   text-transform: uppercase;
   font-weight: 600;
   letter-spacing: 2px;
-  font-family: "Muli", sans-serif;
+  font-family: "Poppins", sans-serif;
   padding-bottom: 10px;
   position: relative;
   z-index: 12;
@@ -1011,7 +1011,7 @@ article {
 .serv-details h3 {
   font-size: 15px;
   text-transform: uppercase;
-  font-family: "Muli", sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 600;
   padding-bottom: 10px;
 }
@@ -1025,7 +1025,7 @@ article {
   width: 100%;
   float: left;
   margin-bottom: 4px;
-  font-family: "Muli", sans-serif;
+  font-family: "Poppins", sans-serif;
   color: #000;
   padding-left: 10px;
   font-weight: 600;
@@ -1211,7 +1211,7 @@ article {
   float: left;
   padding-left: 30px;
   font-size: 10px;
-  font-family: "Muli", sans-serif;
+  font-family: "Poppins", sans-serif;
   line-height: 12px;
   text-transform: uppercase;
   padding-left: 63px;
@@ -1241,7 +1241,7 @@ article {
 .inline-filter .count-folio div {
   display: inline-table;
   padding-left: 15px;
-  font-family: "Muli", sans-serif;
+  font-family: "Poppins", sans-serif;
   font-size: 12px;
   position: relative;
   font-weight: 500;
@@ -1289,7 +1289,7 @@ article {
   padding: 5px 15px;
   border: 1px solid rgba(255, 255, 255, 0.21);
   font-size: 10px;
-  font-family: "Muli", sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 600;
   letter-spacing: 1px;
 }
@@ -1322,7 +1322,7 @@ article {
   margin: 0 10px;
   font-size: 10px;
   color: #fff;
-  font-family: "Muli", sans-serif;
+  font-family: "Poppins", sans-serif;
 }
 .hid-filter {
   float: left;
@@ -1961,7 +1961,7 @@ article {
 }
 .hid-sidebar h4 {
   font-size: 15px;
-  font-family: "Muli", sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 900;
 }
 .hid-sidebar .separator {
@@ -1980,7 +1980,7 @@ article {
 .pd-holder h5 {
   float: left;
   font-size: 10px;
-  font-family: "Muli", sans-serif;
+  font-family: "Poppins", sans-serif;
   line-height: 12px;
   text-transform: uppercase;
   position: relative;
@@ -2233,7 +2233,7 @@ article {
   padding-bottom: 4px;
 }
 .team-info h4 {
-  font-family: "Muli", sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 300;
   font-size: 11px;
 }
@@ -2483,7 +2483,7 @@ footer.fixed-footer .footer-social li a:hover {
   text-transform: uppercase;
   letter-spacing: 1px;
   color: #fff;
-  font-family: "Muli", sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 600;
 }
 .footer-title a {
@@ -2666,7 +2666,7 @@ footer.fixed-footer .footer-social li a:hover {
   font-weight: 800;
   font-size: 12px;
   color: #000;
-  font-family: "Muli", sans-serif;
+  font-family: "Poppins", sans-serif;
   -webkit-appearance: none;
   transition: all 200ms linear;
   -webkit-appearance: none;
@@ -2842,7 +2842,7 @@ footer.fixed-footer .footer-social li a,
   float: left;
   padding-left: 30px;
   font-size: 10px;
-  font-family: "Muli", sans-serif;
+  font-family: "Poppins", sans-serif;
   line-height: 12px;
   text-transform: uppercase;
   padding-left: 63px;
@@ -3042,13 +3042,13 @@ article .section-title {
 }
 .cat-item a {
   font-size: 14px;
-  font-family: "Muli", sans-serif;
+  font-family: "Poppins", sans-serif;
   color: #000;
   text-transform: uppercase;
 }
 .lg-sub-html {
   font-size: 12px;
-  font-family: "Muli", sans-serif;
+  font-family: "Poppins", sans-serif;
   color: #fff;
   text-transform: uppercase;
 }
@@ -3316,7 +3316,7 @@ article .section-title {
   font-size: 10px;
   text-transform: uppercase;
   letter-spacing: 1px;
-  font-family: "Muli", sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 600;
   z-index: 2;
   text-decoration: line-through;
@@ -3382,7 +3382,7 @@ article .section-title {
   text-transform: uppercase;
   letter-spacing: 1px;
   color: #fff;
-  font-family: "Muli", sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 600;
   position: relative;
   z-index: 2;
